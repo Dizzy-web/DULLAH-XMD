@@ -13,7 +13,7 @@ module.exports = { session: process.env.SESSION_ID || 'DULLAH-MD;;;H4sIAAAAAAAAA
     NUMERO_OWNER : process.env.NUMERO_OWNER || "255611425468",              
     AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "yes",
     AUTO_DOWNLOAD_STATUS: process.env.AUTO_DOWNLOAD_STATUS || 'no',
-    BOT : process.env.BOT_NAME || 'ᴅᴜʟʟᴀʜ-xᴍᴅ v²',
+    BOT : process.env.BOT_NAME || 'ALISON-BOT',
     URL : process.env.BOT_MENU_LINKS || 'https://files.catbox.moe/533oqh.jpg',
     MODE: process.env.PUBLIC_MODE || "no",
     PM_PERMIT: process.env.PM_PERMIT || 'yes',
