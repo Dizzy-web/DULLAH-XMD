@@ -21,7 +21,7 @@ module.exports = { session: process.env.SESSION_ID || 'DULLAH-MD;;;H4sIAAAAAAAAA
     HEROKU_APY_KEY : process.env.HEROKU_APY_KEY ,
     WARN_COUNT : process.env.WARN_COUNT || '3' ,
     ETAT : process.env.PRESENCE || '1',
-    CHATBOT : process.env.CHATBOT || 'no',
+    CHATBOT : process.env.CHATBOT || 'yes',
     DP : process.env.STARTING_BOT_MESSAGE || "no",
     ADM : process.env.ANTI_DELETE_MESSAGE || 'yes',
     ANTIDELETE1 : process.env.ANTIDELETE1 || 'no',
