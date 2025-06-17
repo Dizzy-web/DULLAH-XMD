@@ -9,7 +9,7 @@ const DATABASE_URL = process.env.DATABASE_URL === undefined
     : process.env.DATABASE_URL;
 module.exports = { session: process.env.SESSION_ID || 'DULLAH-MD;;;H4sIAAAAAAAAA61U2Y6jSBD8l3q1NeY+LLW0mMPGFz7AB6t9KEMB1UBBQ2GbHvnfV9jdMy3NbG+vtDwVdWRGREbmd0AKXKMZasHwOygrfIYUdUvalggMwaiJIlSBPgghhWAI9qZm+5P24DmoR5ok7ymz9GXwMnt22/3z0T+PZraFpju9R9IncOuDsjllOPgkoHhali/q/CAuCn7eKwapmSxDhbAvOgp1abfQtkQXi4nabNZP4NZFhLjCJDbLBOWogtkMtSuIq6/B75kw9V6lzArgWOH3l1NhtSiWuUF2oZGayFXiQDyzlwvv8jX4ya5OJwfHxHDsGr1jOvB84RIXPJ6uBwdXFiCT8rHDMqe194Bf45ig0A4RoZi2X9ZdcfjRgDuUV08faf5mIi6UlcsZM8WdXTaOWTaXuZMZ85XArr8GPKit0OE3NdxlK84+hMV4P2hdRDaKbElk6YX5lerZOevpwkfgq+rdK+l/0X22JN58zsauOXnVjaOtb69sOLeXWmFfBU1Ij9KALB0LpWnwNfjPc37mufikQ1/A/oIdrdfVaXu+8pCfB5uz8PqS9i5FEhPu+BM+pE31Gcrr0TwvZc02rnvTVvP81KJDaovCVTzNV9KWn+wjxdWjYhnl7viwczzHYy9pfn6eJiG38Bt0GUOS+4fN7BVKL82+x5xiY/10Z5Si1g7BkL31QYViXNMKUlyQbo9jlT6A4XmLggrRu7yAH9cVWkoj3+oJGlVdNnDJesub7co9RL4ib/fuMs893EjBE+iDsioCVNconOCaFlW7QHUNY1SD4Z/3SnWkK5QXFE1xCIaAE0WJZQVOFCTlj/rbJYG0hmX5jSAK+iCqinyBwJBWDeqD+wNV10YGzxq6oYxYS+NHgsAxpmEasqgKkmx1FPNHUhfnqKYwL8GQlQWVkxmRE2/9/weHqBoKP1J0VjQYbqTKPKcZkmrwCitbFi8qn+Pg2dtffUDQlT583KnPs30Q4aqmHmnKrIDhu8nfD2EQFA2h25YEerdAFRh+2EaUYhLXHbOGwCpI8BnpHQ8wjGBWox8FRxUK37m8DTG9CDsfOiavr3VjDzrsXaBftBkKzK/yENjdBjDDdUFAH2T3Z4rIyqIoSyojCnz3rtu+/cDbhQ8RhTirwRDoy3nLrTzLdOTBc22PxxoTa3qsgZ/83vvm4cs2WJLT1TFxwlZkjdR1ruDRkTjxLlhbpjez02RA0Pi0JPXTb4J0TvK2dW8SU5VRe5Nwnr9krucvED68WBpWY3sVMGPR1jY5s+ciX1mUu7E3agYRXFl1aS8Qvto8reowmtY9rg64cDB29PipyxaiMw7Qx2R6ImWtqdZkK6GcLjy7Iarrabu1f/UHwjXrufw+tKwG0f0BQR6e9pgcX5nNTN4tg2aBDhtvIBWcWiiN1/LifHHiYk17dPR9omRvkxy/9Rq+/0YY3QfjW4X+tZIP4J3hmFv/Q4y3UfsP42oUEMPnFDexixCKzOTsTc92vJ++FtbBHG0sHU/tSOST/NWXwa1zfplBGhVVDoagzk8Q9EFVNJ19bRIVn2TStdjW4gftDNZU+9kSv+t25nFrVRXlBNZJp8CKPSZR5+9WK8sthfS9w4DWfWOTgtvfoGSsfYwIAAA=',
     PREFIXE: process.env.PREFIX || ".",
-    OWNER_NAME: process.env.OWNER_NAME || "ALISON-BOT",
+    OWNER_NAME: process.env.OWNER_NAME || "ALISON",
     NUMERO_OWNER : process.env.NUMERO_OWNER || "255611425468",              
     AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "yes",
     AUTO_DOWNLOAD_STATUS: process.env.AUTO_DOWNLOAD_STATUS || 'no',
@@ -23,7 +23,7 @@ module.exports = { session: process.env.SESSION_ID || 'DULLAH-MD;;;H4sIAAAAAAAAA
     ETAT : process.env.PRESENCE || '1',
     CHATBOT : process.env.CHATBOT || 'yes',
     DP : process.env.STARTING_BOT_MESSAGE || "no",
-    ADM : process.env.ANTI_DELETE_MESSAGE || 'yes',
+    ADM : process.env.ANTI_DELETE_MESSAGE || 'no',
     ANTIDELETE1 : process.env.ANTIDELETE1 || 'no',
                   ANTIDELETE2 : process.env.ANTIDELETE2 || 'no',
                   DULLAH_CHATBOT : process.env.DULLAH_CHATBOT || 'yes',
