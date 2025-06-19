@@ -25,7 +25,7 @@
     "DULLAH_CHATBOT":
     {
       "description":"Enter yes for your bot to audio chat to messages when offline ",
-      "value":"no",
+      "value":"yes",
       "required":false
     },
     "CHATBOT":
