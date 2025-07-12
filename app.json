@@ -99,7 +99,7 @@
     },
     "SESSION_ID": {
       "description": "put your session ID , the code you receive after scanning Qr code",
-      "value": "",
+      "value": "DULLAH-MD;;;H4sIAAAAAAAAA61Va4+iSBT9L/V1zMijEDTpZEBAER/4QNTNfiihxFKeRYHixP++QbtnOpnZnt5k+VTU495zbp1z6ztIUlJgG9eg9x1klFSI4WbI6gyDHtDKwwFT0AIBYgj0wNIanN2jXDuddNb5IjgTfL15Z8vXh3NruZqGlKvGEc7HcTJ5AfcWyMp9RPwPAlrucH3grDSPiZgtc3t6WYnmjN7c9g6KJ2nmVEPFMI3CW5xfwL2JiAglSWhkRxxjiiIb1w4i9HPwPVVuw1TR8lzn/FmEBqOdSh2aWnx18dJ0F21Oo8gIJJ33Pwe/v+PLvnZSHKe9MtlVC1WHwknGmzN1GwUbTlDX2oi/kuvReMIvSJjgwApwwgirP113YSbepHNCx1LcnY0mg2V7W5S+LqpH/3TrGit/EXfZaru0ucvngMPjTYm8yFvIAy6JY2Mb5twGWVzVlqMN4TbDg3UNIFpfo8l74A5908r5v9Rd6V80Cws1nNvXcH88L9KpDTNS1VdFbd+2+moXLnSVCDdB+Rx83neToozP6do9nLJKrKTpNEAnz4bSTpufK0bDdvfS0d0T9xM+YiX9COVlVu+5WqNxHNv5otYsd1TNfWocdvzwi7dLTmWmzQRV0bPTKRLN+Q3qX6I8VnK4Zmy87ea2rs7jzBzoEFZ9zYRTe3G6vDwYnXFtBaDH31uA4pAUjCJG0uQxB7stgIJqiX2K2aO8IHX4+OzqnjOQr8l0WbJJkt+kaFyIvmDqo0w8bMsp3dvDMfcCWiCjqY+LAgdDUrCU1hNcFCjEBej99biphjTFccrwiASNnCRJ5qEgCLzY+VZ8vRwRK1CWfU0wAy1woGk8waDHaIlb4HGAlxWoCGbHVKWO0pFMyGt61zQ5UVdMQ1G4hmL8TLoiMS4YijPQ42VJEAVJ4eR76//BIUiK2DV4Huoc3xF1yEuiIGpQ1WVJ5xXT/AMO5X/DwUOJ1/vQ5AxTEESF76iyYJgCNAxDkWXxYxy8dP+7BRJ8ZU8/NSoQ+RY4EFowNymzKEXBm9neFpHvp2XClnXi95sBpqD3bhozRpKwaJiVCaL+kVS43/AAvQOKCvxDeJji4I3LazPtp0HjB1dyN3DgmKDB3gT6pTY94dfqJKjZDHBwIQlogej1kKiIMoRdyHGQF3rCt2b+/gNuEz3ADJGoaLqo0zmeFFU3bK9b+5PBQLVCtR+q4Ce9N/s+7XE+LxV/0nezgVn5OV2gxrqD+W4VaWHF9tMYEtke7TeRkL78JkiTcmV30l09G279PG4TdrS766Af3jpHzznVq/3Zs5ZaO8HscoDpYsrPRftswwoJ5WJadp1cOLiDAPU1e0ozKR3hrqmJuvrSZAtwRXz8PllqWMQuzUl3th7AamROiv11ckuujpjLslAmMIq0TTjZ8k6MKmZewrF84laVslJ03/oyl/xq37dS0XFPymbtzseXERkc58/G8mhs0euDQl4tTx6/B4If/fn1hv50kU/cjdy4e+tdiNeG/y9NU9uNjGqoq5G9OO5FO+e8Qi/i63ngSvPtWPZuu9Iqa+LxUpCDe6P7LELskNIY9EAR7xFoAZqWjXit5JB+9NaqnGWET9YRKpj60xC/87r03OXQNBui4gh6IIlFbd+Iu1azbMkQe7MXUJvP8Qi4/wMFbb/YEQkAAA==",
       "required": true
     },
     "OWNER_NAME": {
@@ -110,7 +110,7 @@
     "NUMERO_OWNER": {
       "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
       "required": false,
-      "value": "255716945971"
+      "value": "255714222136"
     },
     "WARN_COUNT": {
       "desc": "this is the limit of warn for warning commandes",
@@ -129,7 +129,7 @@
     },
     "ANTI_DELETE_MESSAGE": {
       "description": "if you want to enable anti delete message put yes else put no",
-      "value": "yes",
+      "value": "no",
       "required": false
     },
     "ANTICALL": {
@@ -159,7 +159,7 @@
     },
     "AUTO_REPLY": {
       "description": "Enable or disable auto reply feature (yes/no)",
-      "value": "yes",
+      "value": "no",
       "required": false
     },
     "AUTO_STICKER": {
