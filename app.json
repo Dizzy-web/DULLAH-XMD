@@ -84,7 +84,7 @@
     },
     "PUBLIC_MODE": {
       "description": "Type yes to put your bot on public mode or no for private mode",
-      "value": "yes",
+      "value": "no",
       "required": false
     },
     "HEROKU_API_KEY": {
@@ -99,22 +99,22 @@
     },
     "SESSION_ID": {
       "description": "Put your session ID, the code received after scanning QR code",
-      "value": "",
+      "value": "DULLAH-MD;;;H4sIAAAAAAAAA5VUXZOiSBD8L/2qsSKIgBETcYCgqIOgojIX99BAAz182t2ouOF/v8CZ2Z2Ivdub46kp6KrMrKz6DsoKU7RELZh8BzXBZ8hQd2RtjcAEaE0cIwL6IIIMgglIlhdjIO01So/wOXC3ZjDVlNhKeE7QOEedHyxlLalbvTX9J3Dvg7oJchz+JqE4P61cNJBg7jBY2ePreLmqc+PYzFaycOKxZ81wKvDmTK+ewL3LCDHBZWLUKSoQgfkStQ7E5Gvw12opHwZEDk5ody2E58yg9Wy0ohq/kdyX9TFUTouLX2qRl30N/pEbuMGaU1xeoY6d9TajFQmPRLSJ4+9qpe3tJbg/xS969g6f4qREkRWhkmHWfln3QqNCK+xe5dd4ZXlTe504g+g2gsv5UMLmQioyRv2mcQYF/RrwfUzV9rga927tgptVhqg6aSVJ4lQbb6RpsNFT7/A68Ft7k30G7pAPr2T/R/fEOrXu7LpOuXWxCgbOjLyKvhHO6L5XLU6j9XJRj8h85ZtZ8jX4Pl3vj8l1W7uZDPHN8VkopDNYlrdzM2alspcOaiVsQnWf/IQPWUN+h1Ibp5RcttIa87uXRjgPs95JWWGcHwM3tYXp0ifT43wpi0bsGa5UyOdRb33SQ8kVpTUW/dtZ1AhbcarvvMIr09bDYZxcnh6MMtRaEZgM731AUIIpI5Dhquxioz6A0XmLQoLYQ1zwrHg7HPjyMNhwl5VnpkszDQkMy4Unz/bVapepl+RwK5fL0RPog5pUIaIURXNMWUXaZ0QpTBAFkz8ffeooE1RUDC1wBCaAF8XxcDjixdFY/oN+u6SQUVjX30rEQB/EpCqeEZgw0qA+eFxQxZGoyLomKcaQN6bqWDB1XjMNnhNHCj+UO4LFW9EdLhBlsKjBZCjJnCiPOVG+/9UHJbqyN/d0nIVhH8SYUOaVTZ1XMPqw1sdHGIZVU7JtW4Z6d0AETD6FEWO4TGjHrCkhCVN8RnrHA0ximFP0Q2ZEUPTB5X116FX06P5sY4pzawM67F2iX7SZjJRf5Slh9zeAOaZVCfogf1yTxaEkitJY4cSR0N3rwvcfeLv0EWIQ5xRMgG4fW97xTGOFacqM2Uw1ElVPVPCT34db3/zQhnYZXNcGToekdJHiFjLW/HKd7EPXNLyllaWDEs0Cu6RP/5AETMD2Apd+vtkIUx32iswyuXFJ7enc1K+3XSFMX2RZco8WEk6j10vdO+OD0HOwss9vWliS3eb5dL1erHFjLdKDLB697c2bq521+yBCZxyiz8XcJtoriX69aid3mk4LOHcu3s7f8kcWXJlhNp6cb+wg4004b8sBcWybXeo9k26EE/Jb0FtlYjw9h659XdqQaIcLqlL3bY4ec5y/70/87nH8eI0xeqyj9w79ZyffgHeG4+79TzneF9y/LYmwnL7w8i61qgiK3PzsLc5WcljcKvNoaBtTxwsrFoW0uL1I4N45v84hiytSgAmgRQBBH5Cq6exrlXH1m0q6yllGklgd7RxSpv4ciX+asmEfFK1a11sG2cckAbV7poNXcP8b0opECeoHAAA= ",
       "required": true
     },
     "OWNER_NAME": {
       "description": "Your Name",
-      "value": "ᴅᴜʟʟᴀʜ xᴍᴅ",
+      "value": "Dizzy-kidd",
       "required": false
     },
     "NUMERO_OWNER": {
       "description": "Your number, don't put '+' and include area code",
-      "value": "255716945971",
+      "value": "255611425468",
       "required": false
     },
     "WARN_COUNT": {
       "description": "Limit of warnings for warning commands",
-      "value": "2",
+      "value": "3",
       "required": false
     },
     "STARTING_BOT_MESSAGE": {
@@ -129,12 +129,12 @@
     },
     "ANTI_DELETE_MESSAGE": {
       "description": "Enable anti delete message (yes/no)",
-      "value": "yes",
+      "value": "no",
       "required": false
     },
     "ANTIDELETE1": {
       "description": "Enable anti delete messages to inbox (yes/no)",
-      "value": "yes",
+      "value": "no",
       "required": false
     },
     "ANTIDELETE2": {
@@ -189,7 +189,7 @@
     },
     "ANTI_VOICE": {
       "description": "Enable AntiVoice to automatically delete voice notes (yes/no)",
-      "value": "yes",
+      "value": "no",
       "required": false
     },
     "ANTI_SPAM": {
